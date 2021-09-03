@@ -382,12 +382,9 @@ footer nav a {
     margin-bottom: 15px;
 }
 
-.about-page {
-    border: 1px solid orchid;
-}
+.about-page {}
 
 .insideContainer {
-    border: 1px solid red;
     width: 94%;
     margin-left: auto;
     margin-right: auto;
